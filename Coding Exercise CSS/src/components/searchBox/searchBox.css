@@ -46,7 +46,7 @@ input:focus {
     outline: none;
 }
   
-button {
+button#searchBox {
     border:none;
     background: transparent;
     background-repeat:no-repeat;
